@@ -1,11 +1,11 @@
 import React from 'react';
 
-const search = () => {
+const Search = ({placeholder, change}) => {
     return (
         <div>
-            <input className='searchBox' placeholder='Search for user' onKeyPressCapture={}></input>
+            <input type="text" placeholder={placeholder} onChange={change}/>
         </div>
     );
 };
 
-export default search
+export default Search
