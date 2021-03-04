@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7651d5a4-ce75-4e9e-9cba-6d33d779ae66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cart/cart.comoponemt.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cart/cart.comoponemt.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/singleCard/SingleCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/singleCard/SingleCard.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +34,10 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,10 +49,32 @@
       <option name="presentableId" value="Default" />
       <updated>1609527814077</updated>
       <workItem from="1609527817946" duration="650000" />
+      <workItem from="1611397469944" duration="438000" />
+      <workItem from="1611398828874" duration="3752000" />
+      <workItem from="1611662805183" duration="619000" />
+      <workItem from="1612438061150" duration="2075000" />
+      <workItem from="1612444145483" duration="15000" />
+      <workItem from="1612451204893" duration="601000" />
+      <workItem from="1612454866292" duration="21000" />
+      <workItem from="1612514401653" duration="696000" />
+      <workItem from="1612523994168" duration="142000" />
+      <workItem from="1614713072639" duration="1722000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
