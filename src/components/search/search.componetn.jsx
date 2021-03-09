@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Search = ({placeholder, change}) => {
+
     return (
     <nav className="navbar navbar-light bg-light">
         <a className="navbar-brand">Mjeket Tane</a>
