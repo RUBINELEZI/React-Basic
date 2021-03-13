@@ -1,9 +1,12 @@
 import React from 'react'
 import "./categories.css";
 import SingleCategory from '../SingleCategory/SingleCategory'
+import { useSelector, useDispatch } from "react-redux";
+import { bntAction } from "../../redux/actions/btnAction";
 
 export const Categories = (props) => {
-    let displayState = props.display ? '' : 'none';
+    const btnState = useSelector(state => state.btn) 
+    let displayState = btnState ? '' : 'none';
     return <div className='cart' style={{display: displayState}}>
 
         <div className='p-0 m-0 row'>
