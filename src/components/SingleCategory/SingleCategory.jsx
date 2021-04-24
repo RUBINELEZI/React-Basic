@@ -1,15 +1,22 @@
-import React from 'react';
+import React ,{useEffect, useState} from 'react'
 import './singleCategory.css'
+import { useSelector, useDispatch} from "react-redux";
+import {categoryAction} from "../../redux/actions/categoryAction";
+import {userAction} from "../../redux/actions/userAction";
+const SingleCategory = ({title}) => {
 
-const SingleCategory = (props) => {
-
-    let test = () =>{
-        console.log('works')
+    const dispatch = useDispatch()
+    let handleClick = (e) =>{
+        // fetch("http://mjeket.herokuapp.com/doctors/api/alldoctors/" + e.target.innerText)
+        //     .then(response => response.json())
+        //     .then(data =>  )
+        dispatch(categoryAction(e.target.innerText))
     }
+
     return (
-        <div onClick={test} className='col-md-3 col-sm-6'>
+        <div onClick={handleClick} className='col-md-3 col-sm-6'>
             <div className='card doctor'>
-                <span>{props.title}</span>
+                <span>{title}</span>
             </div>
         </div>
     )

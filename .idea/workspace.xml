@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7651d5a4-ce75-4e9e-9cba-6d33d779ae66" name="Default Changelist" comment="category added, non functional at the moment">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SingleCategory/SingleCategory.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SingleCategory/SingleCategory.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/categories/categories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/categories/categories.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actions/btnAction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions/categoryAction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../magoware-smart-tv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -60,6 +68,9 @@
       <workItem from="1615120812364" duration="738000" />
       <workItem from="1615288723867" duration="2345000" />
       <workItem from="1615296869937" duration="678000" />
+      <workItem from="1617616156542" duration="6432000" />
+      <workItem from="1618163141532" duration="595000" />
+      <workItem from="1619118848107" duration="7181000" />
     </task>
     <task id="LOCAL-00001" summary="category added, non functional at the moment">
       <created>1615296904021</created>
